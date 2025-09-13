@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/academic-records-app/static/js/main.6d7a3c38.js",
+    "index.html": "/academic-records-app/index.html",
+    "main.6d7a3c38.js.map": "/academic-records-app/static/js/main.6d7a3c38.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d7a3c38.js"
+  ]
+}
